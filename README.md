@@ -1,4 +1,4 @@
-# Hi! I'm Artur Dantas
+# Olá! Eu sou o Artur Dantas
 
 Atualmente cursando o 8º semestre de Ciências da Computação, sou um desenvolvedor Full-Stack com experiência em desenvolvimento web e DevOps. Tenho domínio de Java (Spring, Quarkus, jhipster e Jakarta), API REST, React e Angular, Vue. Além disso, possuo experiência em Linux, Docker, Kubernetes, cloud e bancos de dados, focando em automação, escalabilidade e otimização de sistemas.
 
