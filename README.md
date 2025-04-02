@@ -1,10 +1,13 @@
-# HI! I'm Artur Dantas
+# Hi! I'm Artur Dantas
 
 Atualmente cursando o 8º semestre de Ciências da Computação, sou um desenvolvedor Full-Stack com experiência em desenvolvimento web e DevOps. Tenho domínio de Java (Spring, Quarkus, jhipster e Jakarta), API REST, React e Angular, Vue. Além disso, possuo experiência em Linux, Docker, Kubernetes, cloud e bancos de dados, focando em automação, escalabilidade e otimização de sistemas.
+
 <div align="center">
  <a href="https://github.com/MartinsArtur"><img alt="Artur Dantas Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MartinsArtur&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="150px" width="38%"/></a>
 </div>
+
 <br/>
+
 <div align="center">
   <p>Entre em contato comigo:</p>
   <a href="https://www.linkedin.com/in/artur-d-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
