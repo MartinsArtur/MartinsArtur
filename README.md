@@ -15,4 +15,4 @@
 </div>
 
 <h2 align="center">Tecnologias</h2>
-<img src="https://skillicons.dev/icons?i=spring,java,react,angular,vue,nodejs,postman,kubernetes,docker,mongodb,postgresql,html,css,javascript,typescript,python,git,github,c,vim" />
+<a href="https://github.com/MartinsArtur"><img src="https://skillicons.dev/icons?i=spring,java,react,angular,vue,nodejs,postman,kubernetes,docker,mongodb,postgresql,html,css,javascript,typescript,python,git,github,c,vim" /></a>
