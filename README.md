@@ -1,4 +1,4 @@
-# Olá! Eu sou o Artur Dantas
+# Hi! I'm Artur Dantas
 
 <p align="justify">I am a Full-Stack Developer with a degree in computer science, experience in web/app development and DevOps. I have strong skills in Java (Spring, Quarkus, JHipster, and Jakarta), RESTful APIs, and front-end frameworks such as React, Angular, and Vue. I also have hands-on experience with Linux, Docker, Kubernetes, cloud environments, and databases, with a focus on automation, scalability, and system optimization.</p>
 
